@@ -1,0 +1,4 @@
+git init
+git add .
+git commit -m "init arcpay"
+gh repo create arcpay --public --push
